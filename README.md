@@ -1,2 +1,2 @@
 # Project-Euler
-<h1>Just practice programming</h1>
+<h3>Just practice programming</h3>
